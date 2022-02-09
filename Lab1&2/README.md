@@ -15,10 +15,10 @@ Below is an overview of terminal commands. OnWorks Linux Kali was used to perfor
 ![](images/3.PNG)
 
 ## mkdir demo, cd demo, nano file, cat file, cp file file1, mv file file2, rm file2
-![](images/4.PNG)
+![](images/5.PNG)
 
 ## nano file (editor)
-![](images/5.PNG)
+![](images/4.PNG)
 
 ## clear
 ![](images/6.PNG)

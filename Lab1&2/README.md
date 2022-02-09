@@ -6,6 +6,7 @@ I pledge my honor that I have abided by the Stevens Honor System.
 Below is an overview of terminal commands. OnWorks Linux Kali was used to perform this lab. Commands used are listed, followed by images of terminal window results.
 
 ## hostname, env
+![](images/1.PNG)
 
 ## ps, pwd
 

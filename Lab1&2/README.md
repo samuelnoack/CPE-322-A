@@ -9,19 +9,28 @@ Below is an overview of terminal commands. OnWorks Linux Kali was used to perfor
 ![](images/1.PNG)
 
 ## ps, pwd
+![](assets/2.PNG)
 
 ## git clone, cd iot, ls, cd, df
+![](assets/3.PNG)
 
 ## mkdir demo, cd demo, nano file, cat file, cp file file1, mv file file2, rm file2
+![](assets/4.PNG)
 
 ## nano file (editor)
+![](assets/5.PNG)
 
 ## clear
+![](assets/6.PNG)
 
 ## man uname
+![](assets/7.PNG)
 
 ## uname -a, ifconfig
+![](assets/8.PNG)
 
 ## ping localhost, ctrl+c
+![](assets/9.PNG)
 
 ## netstat
+![](assets/10.PNG)

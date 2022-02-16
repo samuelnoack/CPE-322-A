@@ -1,7 +1,7 @@
 # Lab 3
 # Python
 
-This lab was performed using a headless Raspberry pi 4 Model B running Raspberry Pi OS. This lab used python3 to run code files found at https://github.com/kevinwlu/iot/lesson3.git
+This lab was performed using a headless Raspberry pi 4 Model B running Raspberry Pi OS. This lab used python3 to run code files found at https://github.com/kevinwlu/iot/lesson3
 
 ## Basic Terminal Navigation Commands
 ![](images/1.PNG)
@@ -35,6 +35,8 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 
 ## battery.py
 ![](images/11.PNG)
+
+(RaspberryPi was powered directly through USB port)
 
 ## documentstats.py document.txt
 ![](images/12.PNG)

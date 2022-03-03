@@ -17,7 +17,7 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 ![](images/5.PNG)
 
 ## Installing MariaDB
-![](images/Mariadb.PNG)
+![](images/MariaDB.PNG)
 
 ## Setting up MariaDB
 ![](images/7.PNG)

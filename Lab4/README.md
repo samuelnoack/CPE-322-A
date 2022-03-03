@@ -23,7 +23,7 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 ![](images/7.PNG)
 
 ## Migrating and setting up django server
-![](images/8.PNG)
+![](images/9.PNG)
 
 
 

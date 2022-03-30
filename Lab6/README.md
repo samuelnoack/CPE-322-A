@@ -8,6 +8,8 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 
 # Running hello.js server
 ![](images/2.PNG)
+
+# Server Running Online
 ![](images/4.PNG)
 
 # Installing and using Pystache

@@ -7,7 +7,7 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 ![](images/1.PNG)
 
 # Running hello.js server
-![](images/host.PNG)
+![](images/host.jpg)
 
 # Server Running Online
 ![](images/4.PNG)

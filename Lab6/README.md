@@ -6,7 +6,7 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 # Basic node commands after Installing Node.js
 ![](images/1.PNG)
 
-# Running hello.js server
+# Finding Pi IP address & Running hello.js server
 ![](images/host.jpg)
 
 # Server Running Online

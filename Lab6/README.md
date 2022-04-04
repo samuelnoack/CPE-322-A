@@ -12,5 +12,9 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 # Server Running Online
 ![](images/4.PNG)
 
+
+hello.js was the only server page that functioned. hello-world.js and http.js would run on the Pi, but visiting the webpage on my laptop would simply result in a page not found error. At first, I instinctively figured this might be due to a port issue, so I changed the default port of the final two programs to 8080. This did not work, so I tried using an alternative IP address for my Pi. This also failed. I ran out of ideas of how to go about loading the server on my headless Pi setup.
+
+
 # Installing and using Pystache
 ![](images/3.PNG)

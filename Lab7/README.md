@@ -16,3 +16,9 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 
 # Running thingspeak code with API key
 ![](Images/5.PNG)
+
+
+
+For the second part of this lab, I was not able to get a working .json file. Instructions state to gain a .json key from the google creentials page, but there was no option for this that I could find, as shown below:
+
+![](Images/6.PNG)

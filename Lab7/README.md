@@ -5,6 +5,7 @@ This lab was performed using a headless Raspberry pi 4 Model B running Raspberry
 
 # Setting up thingspeak code
 ![](Images/1.PNG)
+![](Images/2.PNG)
 
 # API key taken from thingspeak website
 ![](Images/API.PNG)
